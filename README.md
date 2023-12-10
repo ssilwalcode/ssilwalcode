@@ -8,22 +8,25 @@
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ssilwalcode&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/3ohhwpvqNYLnpTVUCA/giphy.gif" width="200" height="200"/>
-</div> 
 
 ---
 
-### 👩‍💻 About Me :
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  Hello! I'm Silviya
+</h2>
+
+I'm currently working as an AI Engineer at [Uptime Labs](https://uptimelabs.io). I recently completed my Erasmus Mundus Master Double Degree Program from [University of Lorraine](https://idmc.univ-lorraine.fr/courses/master-degree-2-nlp/) and [University of Malta](https://www.um.edu.mt/courses/overview/PMSCHLTFT-2022-3-O) in AI and NLP. My thesis was on Cross-Lingual Transfer Learning with Adapters for Multilingual Question Generation. I worked on this research thesis as an NLP research engieer at [Synapse Developpement](https://www.synapse-developpement.fr) in collaboration with professors and researches from [IRIT](https://www.irit.fr) and [LORIA](https://www.loria.fr/en/).
+
+- 🌱 I'm interested in multilingual multimodal LLM, decision making, generative AI, and NLP+health&privacy to name a few.
+- 🎯 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ssilwal16/)
 
 ---
 
-### Publications
+<h2>
+  Publications
+</h2>
 
 - Md Zobaer Hossain, Averie Ho Zoen So, Silviya Silwal, H. Andres Gonzalez Gongora, Ahnaf Mozib Samin, Jahedul Alam Junaed, Aritra Mazumder, Sourav Saha, and Sabiha Tahsin Soha. 2023. [garNER at SemEval-2023: Simplified Knowledge Augmentation for Multilingual Complex Named Entity Recognition.](https://aclanthology.org/2023.semeval-1.114/) In Proceedings of the The 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 823–835, Toronto, Canada. Association for Computational Linguistics.
 
