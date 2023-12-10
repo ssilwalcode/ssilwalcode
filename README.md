@@ -17,9 +17,9 @@
   Hello! I'm Silviya
 </h2>
 
-I'm currently working as an AI Engineer at [Uptime Labs](https://uptimelabs.io). I recently completed my Erasmus Mundus Master Double Degree Program from [University of Lorraine](https://idmc.univ-lorraine.fr/courses/master-degree-2-nlp/) and [University of Malta](https://www.um.edu.mt/courses/overview/PMSCHLTFT-2022-3-O) in AI and NLP. My thesis was on Cross-Lingual Transfer Learning with Adapters for Multilingual Question Generation. I worked on this research thesis as an NLP research engieer at [Synapse Developpement](https://www.synapse-developpement.fr) in collaboration with professors and researches from [IRIT](https://www.irit.fr) and [LORIA](https://www.loria.fr/en/).
+Currently, I'm working as an AI Engineer at [Uptime Labs](https://uptimelabs.io). I recently finished an Erasmus Mundus Master Double Degree Program in AI and NLP from the [University of Lorraine](https://idmc.univ-lorraine.fr/courses/master-degree-2-nlp/) and [University of Malta](https://www.um.edu.mt/courses/overview/PMSCHLTFT-2022-3-O). My thesis focused on Cross-Lingual Transfer Learning with Adapters for Multilingual Question Generation. I conducted this research during my time as an NLP research engineer at [Synapse Developpement](https://www.synapse-developpement.fr), collaborating with professors and researchers from[IRIT](https://www.irit.fr) and [LORIA](https://www.loria.fr/en/).
 
-- 🌱 I'm interested in multilingual multimodal LLM, decision making, generative AI, and NLP+health&privacy to name a few.
+- 🌱 I'm interested in multilingual multimodal LLMs, decision making, social reasoning for LLMs, and NLP+health&privacy to name a few.
 - 🎯 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ssilwal16/)
 
 ---
